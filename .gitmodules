@@ -1,0 +1,6 @@
+[submodule "inputs"]
+	path = inputs
+	url = git@github.com:ExoJulia/SysSimDataInputs.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/ExoJulia/SysSimDataInputScripts
